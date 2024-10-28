@@ -1,3 +1,5 @@
 Mi primer archivo de proyecto
 
-Cambio realizado en nueva_rama
+Cambio realizado en conflicto
+
+Se agregan datos a la rama conflictiva
